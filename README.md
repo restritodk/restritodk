@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/restritodk.png" width="140" height="140" alt="Foto de perfil de Eurico Santos" />
+
 # Eurico Santos
 
 **Full Stack Developer | SaaS, E-commerce, Marketplaces & Automations**
